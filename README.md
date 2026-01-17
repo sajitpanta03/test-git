@@ -1,1 +1,1 @@
-# test-git THIS IS A TEST for git for stack, cherrypick and other
+# test-git THIS IS A TEST for git for stack, cherrypick.
